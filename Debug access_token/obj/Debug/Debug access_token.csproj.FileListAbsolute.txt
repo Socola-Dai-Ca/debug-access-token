@@ -1,0 +1,10 @@
+D:\Windows\Debug access_token\Debug access_token\bin\Debug\Debug access_token.exe.config
+D:\Windows\Debug access_token\Debug access_token\bin\Debug\Debug access_token.exe
+D:\Windows\Debug access_token\Debug access_token\bin\Debug\Debug access_token.pdb
+D:\Windows\Debug access_token\Debug access_token\obj\Debug\Debug access_token.csprojAssemblyReference.cache
+D:\Windows\Debug access_token\Debug access_token\obj\Debug\Debug_access_token.Main.resources
+D:\Windows\Debug access_token\Debug access_token\obj\Debug\Debug_access_token.Properties.Resources.resources
+D:\Windows\Debug access_token\Debug access_token\obj\Debug\Debug access_token.csproj.GenerateResource.cache
+D:\Windows\Debug access_token\Debug access_token\obj\Debug\Debug access_token.csproj.CoreCompileInputs.cache
+D:\Windows\Debug access_token\Debug access_token\obj\Debug\Debug access_token.exe
+D:\Windows\Debug access_token\Debug access_token\obj\Debug\Debug access_token.pdb
